@@ -1,6 +1,6 @@
 
 		<!-- ========================= footer style-1 start ========================= -->
-    <footer class="footer footer-style-1 text-white mt-5">
+    <footer class="footer footer-style-1 text-white">
       <div class="container">
         <div class="widget-wrapper">
           <div class="row">

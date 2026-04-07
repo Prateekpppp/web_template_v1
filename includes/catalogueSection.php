@@ -14,129 +14,204 @@
             </div>
 
             <div class="row justify-content-center">
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6 p-2">
                     <div class="single-team wow fadeInUp" data-wow-delay=".2s">
-                    <div class="image w-fit mx-auto hover_item">
-                        <img src="assets/img/team/team-1/team-1.png" alt="">
-                    </div>
-                    <div class="info d-none">
-                        <h6>John Doe</h6>
-                        <p>Product Designer</p>
-                        <ul class="socials">
-                        <li>
-                            <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
-                        </li>
-                        </ul>
-                    </div>
+                        <div class="image w-fit mx-auto hover_item">
+                            <img src="assets/img/products/product_c1.png" alt="">
+                        </div>
+                        <div class="info d-none">
+                            <h6>John Doe</h6>
+                            <p>Product Designer</p>
+                            <ul class="socials">
+                            <li>
+                                <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
+                            </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6 p-2">
                     <div class="single-team wow fadeInUp" data-wow-delay=".2s">
-                    <div class="image w-fit mx-auto hover_item">
-                        <img src="assets/img/team/team-1/team-1.png" alt="">
-                    </div>
-                    <div class="info d-none">
-                        <h6>John Doe</h6>
-                        <p>Product Designer</p>
-                        <ul class="socials">
-                        <li>
-                            <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
-                        </li>
-                        </ul>
-                    </div>
+                        <div class="image w-fit mx-auto hover_item">
+                            <img src="assets/img/products/product_c1.png" alt="">
+                        </div>
+                        <div class="info d-none">
+                            <h6>John Doe</h6>
+                            <p>Product Designer</p>
+                            <ul class="socials">
+                            <li>
+                                <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
+                            </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6 p-2">
                     <div class="single-team wow fadeInUp" data-wow-delay=".2s">
-                    <div class="image w-fit mx-auto hover_item">
-                        <img src="assets/img/team/team-1/team-1.png" alt="">
-                    </div>
-                    <div class="info d-none">
-                        <h6>John Doe</h6>
-                        <p>Product Designer</p>
-                        <ul class="socials">
-                        <li>
-                            <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
-                        </li>
-                        </ul>
-                    </div>
+                        <div class="image w-fit mx-auto hover_item">
+                            <img src="assets/img/products/product_c1.png" alt="">
+                        </div>
+                        <div class="info d-none">
+                            <h6>John Doe</h6>
+                            <p>Product Designer</p>
+                            <ul class="socials">
+                            <li>
+                                <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
+                            </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6 p-2">
                     <div class="single-team wow fadeInUp" data-wow-delay=".2s">
-                    <div class="image w-fit mx-auto hover_item">
-                        <img src="assets/img/team/team-1/team-1.png" alt="">
-                    </div>
-                    <div class="info d-none">
-                        <h6>John Doe</h6>
-                        <p>Product Designer</p>
-                        <ul class="socials">
-                        <li>
-                            <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
-                        </li>
-                        </ul>
-                    </div>
+                        <div class="image w-fit mx-auto hover_item">
+                            <img src="assets/img/products/product_c1.png" alt="">
+                        </div>
+                        <div class="info d-none">
+                            <h6>John Doe</h6>
+                            <p>Product Designer</p>
+                            <ul class="socials">
+                            <li>
+                                <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
+                            </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6 p-2">
                     <div class="single-team wow fadeInUp" data-wow-delay=".2s">
-                    <div class="image w-fit mx-auto hover_item">
-                        <img src="assets/img/team/team-1/team-1.png" alt="">
+                        <div class="image w-fit mx-auto hover_item">
+                            <img src="assets/img/products/product_c1.png" alt="">
+                        </div>
+                        <div class="info d-none">
+                            <h6>John Doe</h6>
+                            <p>Product Designer</p>
+                            <ul class="socials">
+                            <li>
+                                <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
+                            </li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="info d-none">
-                        <h6>John Doe</h6>
-                        <p>Product Designer</p>
-                        <ul class="socials">
-                        <li>
-                            <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
-                        </li>
-                        </ul>
+                </div>
+                <div class="col-md-3 col-sm-6 p-2">
+                    <div class="single-team wow fadeInUp" data-wow-delay=".2s">
+                        <div class="image w-fit mx-auto hover_item">
+                            <img src="assets/img/products/product_c1.png" alt="">
+                        </div>
+                        <div class="info d-none">
+                            <h6>John Doe</h6>
+                            <p>Product Designer</p>
+                            <ul class="socials">
+                            <li>
+                                <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
+                            </li>
+                            </ul>
+                        </div>
                     </div>
+                </div>
+                <div class="col-md-3 col-sm-6 p-2">
+                    <div class="single-team wow fadeInUp" data-wow-delay=".2s">
+                        <div class="image w-fit mx-auto hover_item">
+                            <img src="assets/img/products/product_c1.png" alt="">
+                        </div>
+                        <div class="info d-none">
+                            <h6>John Doe</h6>
+                            <p>Product Designer</p>
+                            <ul class="socials">
+                            <li>
+                                <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
+                            </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 p-2">
+                    <div class="single-team wow fadeInUp" data-wow-delay=".2s">
+                        <div class="image w-fit mx-auto hover_item">
+                            <img src="assets/img/products/product_c1.png" alt="">
+                        </div>
+                        <div class="info d-none">
+                            <h6>John Doe</h6>
+                            <p>Product Designer</p>
+                            <ul class="socials">
+                            <li>
+                                <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
+                            </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
