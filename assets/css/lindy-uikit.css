@@ -2812,3 +2812,16 @@ input:focus, textarea:focus, button:focus {
   align-items: center;
   gap: 3px;
 }
+
+
+  #myVideo {
+    width: 100%;
+  }
+
+@media (max-width: 991px) {
+  #myVideo {
+    width: auto;
+    /* margin: 11.6483px 0px 0px -447.937px;
+    transform: translate3d(0px, -11.6483px, 0px); */
+  }
+}
