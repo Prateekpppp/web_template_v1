@@ -358,6 +358,8 @@ p {
 
 .button-lg {
   height: 64px;
+  font-size: 20px;
+  font-weight: 700;
 }
 
 .button-sm {
@@ -2733,7 +2735,7 @@ input:focus, textarea:focus, button:focus {
 /* .hover_item ::before, .hover_item .hov { */
 .hover_item {
   /* content: ''; */
-  /* position: absolute; */
+  position: relative;
   top: 0;
   left: 0;
   right: 0;
@@ -2773,37 +2775,37 @@ input:focus, textarea:focus, button:focus {
 
 /* hover popup css */
 
-.hover-popup::before {
-  content: '';
-  position: absolute;
-  border-left: 10px solid transparent;
-  border-right: 10px solid transparent;
-  border-bottom: 10px solid #dbd9d9;
-  left: -15px;
-  transform: rotate(-90deg);
-}
+  .hover-popup {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    top: 30%;
+    left: 70%;
+    width: 50ch;
+    margin: min(1rem, 20px);
+    font-size: .8rem;
+    background-color: #dbd9d9;
+    border-radius: 8px;
+    padding: 1.5em;
+    z-index: 42;
+    transform: scale(0);
+    transition: transform 200ms ease;
+    transform-origin: 8% -10px;
+  }
+  
+  .hover-popup::before {
+    content: '';
+    position: absolute;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #dbd9d9;
+    left: -15px;
+    transform: rotate(-90deg);
+  }
 
 .hover-target:hover + .hover-popup, .hover-target:focus + .hover-popup, .hover-popup:hover {
   transform: scale(1);
-}
-
-.hover-popup {
-  position: absolute;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  top: 30%;
-  left: 70%;
-  width: 50ch;
-  margin: min(1rem, 20px);
-  font-size: .8rem;
-  background-color: #dbd9d9;
-  border-radius: 8px;
-  padding: 1.5em;
-  z-index: 42;
-  transform: scale(0);
-  transition: transform 200ms ease;
-  transform-origin: 8% -10px;
 }
 
 .socials li {
@@ -2814,9 +2816,26 @@ input:focus, textarea:focus, button:focus {
 }
 
 
-  #myVideo {
-    width: 100%;
-  }
+#myVideo {
+  width: 100vw;
+}
+
+.button-lg {
+  border-radius: 30px;
+  padding: 5px 20px;
+}
+
+.yellow_circle {
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  left: 0;
+  top: 0;
+  background: #f1fe00;
+  border-radius: 100%;
+  z-index: -1;
+}
+
 
 @media (max-width: 991px) {
   #myVideo {
@@ -2824,4 +2843,70 @@ input:focus, textarea:focus, button:focus {
     /* margin: 11.6483px 0px 0px -447.937px;
     transform: translate3d(0px, -11.6483px, 0px); */
   }
+
+  /* .hover_item {
+    position: unset;
+  } */
+
+  .hover-popup {
+    position: fixed !important;
+    left: 0 !important;
+    top: 20% !important;
+    width: 90% !important;
+    transform-origin: unset;
+  }
+
+  .hover-popup::before {
+    content: '';
+    position: absolute;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #dbd9d9;
+    left: 50%;
+    transform: rotate(0deg);
+    top: -10px;
+  }
+  
+  .button-lg {
+    height: 40px;
+    font-size: 16px;
+    font-weight: 700;
+  }
+
+  .videoBanner .hero-content-wrapper {
+    margin-top: -275px;
+  }
 }
+
+/* @media (min-width: 992px) { */
+/* 
+  .hover-popup {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    top: 30%;
+    left: 70%;
+    width: 50ch;
+    margin: min(1rem, 20px);
+    font-size: .8rem;
+    background-color: #dbd9d9;
+    border-radius: 8px;
+    padding: 1.5em;
+    z-index: 42;
+    transform: scale(0);
+    transition: transform 200ms ease;
+    transform-origin: 8% -10px;
+  }
+  
+  .hover-popup::before {
+    content: '';
+    position: absolute;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #dbd9d9;
+    left: -15px;
+    transform: rotate(-90deg);
+  } */
+
+/* } */
