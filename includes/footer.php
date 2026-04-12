@@ -8,10 +8,10 @@
               <div class="footer-widget wow fadeInUp" data-wow-delay=".2s">
                 <div class="logo p-2 px-3">
                     <div class="d-flex align-items-center gap-1 rounded-4 bg-light fw-bold">
-                        <a href="index.php"> <img src="assets/img/logo/logo.webp" width="70px" alt=""> </a>
-                        <div>
+                        <a href="index.php"> <img src="assets/img/logo/logo2.webp" width="130px" alt=""> </a>
+                        <!-- <div>
                             <span class="app_color_green">Suman</span> <br><span class="app_color_yellow">Industries</span>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <p class="desc">Address:  College More, Kanchrapara<br>West Bengal, India , 743145</p>

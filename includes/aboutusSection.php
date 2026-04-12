@@ -16,7 +16,7 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="d-flex flex-row align-items-center single-feature wow fadeInUp" data-wow-delay=".4s">
-                  <div class="icon hover_item d-flex align-items-center justify-content-center">
+                  <div class="icon hover_item1 d-flex align-items-center justify-content-center">
                      <img src="assets/img/about/about1.png" width="40px" alt="" srcset="">
                   </div>
                   <div class="content mx-4">
@@ -27,10 +27,10 @@
               </div>
               <div class="col-md-12">
                 <div class="d-flex flex-row align-items-center single-feature wow fadeInUp" data-wow-delay=".4s">
-                  <div class="icon hover_item d-flex align-items-center justify-content-center">
+                  <div class="icon hover_item1 d-flex align-items-center justify-content-center">
                      <img src="assets/img/about/about2.png" width="40px" alt="" srcset="">
                   </div>
-                  <!-- <div class="icon hover_item">
+                  <!-- <div class="icon hover_item1">
                     <i class="lni lni-layers"></i>
                   </div> -->
                   <div class="content mx-4">

@@ -7,7 +7,7 @@
               <div class="col-lg-12">
                 <nav class="navbar navbar-expand-lg">
                   <a class="navbar-brand" href="index.php">
-                    <img src="assets/img/logo/logo.webp" width="70px" alt="Logo" />
+                    <img src="assets/img/logo/logo2.webp" width="130px" alt="Logo" />
                   </a>
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="toggler-icon"></span>
