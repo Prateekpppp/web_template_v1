@@ -1,4 +1,5 @@
 <?php
+  $title = "Contact Us";
   include_once('includes/head.php');
   include_once('includes/headerPart.php');
   include_once('includes/contactSection.php');

@@ -66,7 +66,7 @@
 		}
 	};
 
-    window.document.addEventListener('scroll', onScroll);
+    // window.document.addEventListener('scroll', onScroll);
 
 
       //====== counter up 

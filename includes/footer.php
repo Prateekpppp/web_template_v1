@@ -8,13 +8,13 @@
               <div class="footer-widget wow fadeInUp" data-wow-delay=".2s">
                 <div class="logo p-2 px-3">
                     <div class="d-flex align-items-center gap-1 rounded-4 bg-light fw-bold">
-                        <a href="index.php"> <img src="assets/img/logo/logo2.webp" width="130px" alt=""> </a>
+                        <a href="index.php"> <img src="assets/img/logo/logo2.png" width="150px" alt=""> </a>
                         <!-- <div>
                             <span class="app_color_green">Suman</span> <br><span class="app_color_yellow">Industries</span>
                         </div> -->
                     </div>
                 </div>
-                <p class="desc">Address:  College More, Kanchrapara<br>West Bengal, India , 743145</p>
+                <p class="desc">Address:  KALYANI INDUSTRIAL<br> ESTATE- PHASE-I, PLOT NO-P55A,, BLOCK-D,<br> KALYANI,  Nadia, West Bengal, 741235</p>
                 <!-- <ul class="socials">
                   <li> <a href="#0"> <i class="lni lni-facebook-filled"></i> </a> </li>
                   <li> <a href="#0"> <i class="lni lni-twitter-filled"></i> </a> </li>
@@ -36,7 +36,7 @@
           </div>
         </div>
         <div class="copyright-wrapper wow fadeInUp" data-wow-delay=".2s">
-          <p>Design and Developed by <a href="#" rel="nofollow" target="_blank">Prateek Kumar</p>
+          <p>Designed and Developed by <a href="#" rel="nofollow" target="_blank">Prateek Kumar</p>
         </div>
       </div>
     </footer>
