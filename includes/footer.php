@@ -7,7 +7,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="footer-widget wow fadeInUp" data-wow-delay=".2s">
                 <div class="logo p-2 px-3">
-                    <div class="d-flex align-items-center gap-1 rounded-4 bg-light fw-bold">
+                    <div class="d-flex align-items-center gap-1 rounded-4 bg-light fw-bold p-1">
                         <a href="index.php"> <img src="assets/img/logo/logo2.png" width="150px" alt=""> </a>
                         <!-- <div>
                             <span class="app_color_green">Suman</span> <br><span class="app_color_yellow">Industries</span>
@@ -30,6 +30,18 @@
                   <li> <a href="index.php">Home</a> </li>
                   <li> <a href="products.php">Products</a> </li>
                   <li> <a href="contact.php">Contact</a> </li>
+                  <!-- <li><a class="" href="tel:+918013395004">+91 8013395004</a></li> -->
+                </ul>
+              </div>
+            </div>
+            <div class="col-xl-2 offset-xl-1 col-lg-2 col-md-6 col-sm-6">
+              <div class="footer-widget wow fadeInUp" data-wow-delay=".3s">
+                <!-- <h6>Quick Link</h6> -->
+                <ul class="links">
+                  <li><a class="" href="tel:+918013395004">+91 8013395004</a></li>
+                  <li><a class="" href="tel:+919831478795">+91 9831478795</a></li>
+                  <li><a class="" href="tel:+916289163166">+91 6289163166</a></li>
+                  <li><a class="" href="mailto:<?= $contact_mail ?>"><?= $contact_mail ?></a></li>
                 </ul>
               </div>
             </div>

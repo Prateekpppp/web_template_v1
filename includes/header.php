@@ -7,7 +7,7 @@
               <div class="col-lg-12">
                 <nav class="navbar navbar-expand-lg">
                   <a class="navbar-brand" href="index.php">
-                    <img src="assets/img/logo/logo2.png" width="150px" alt="Logo" />
+                    <img src="assets/img/logo/logo2.jpeg" width="150px" alt="Logo" />
                   </a>
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="toggler-icon"></span>
@@ -33,7 +33,7 @@
                         <a class="page-scroll <?= $current_url == 'certificate.php'? 'active':'' ?>" href="certificate.php">Certificate</a>
                       </li>
                       <li class="nav-item">
-                        <a href="tel:+91-<?= $contact_phone ?>">+91-<?= $contact_phone ?></a>
+                        <a href="tel:+91<?= $contact_phone ?>">+91 <?= $contact_phone ?></a>
                       </li>
                     </ul>
                     <!-- <a href="tel:+91-6289163166" class="button button-sm radius-10 d-lg-flext">+91-6289163166</a> -->

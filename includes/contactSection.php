@@ -67,9 +67,9 @@
                 </div>
                 <div class="ml-5 pl-5 mb-3">
                     <ul>
-                        <li><a class="app_color_green" href="tel:+91-8013395004">+91-8013395004</a></li>
-                        <li><a class="app_color_green" href="tel:+91-9831478795">+91-9831478795</a></li>
-                        <li><a class="app_color_green" href="tel:+91-6289163166">+91-6289163166</a></li>
+                        <li><a class="app_color_green" href="tel:+918013395004">+91 8013395004</a></li>
+                        <li><a class="app_color_green" href="tel:+919831478795">+91 9831478795</a></li>
+                        <li><a class="app_color_green" href="tel:+916289163166">+91 6289163166</a></li>
                     </ul>
                 </div>
                 <div class="single-item">

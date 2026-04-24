@@ -11,13 +11,23 @@
 <!DOCTYPE html>
 <html class="no-js" lang="">
   <head>
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B99RFL9HH1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B99RFL9HH1');
+</script>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Suman Industries</title>
-    <meta name="description" content="" />
+    <title>Bolts | Nuts | Fasteners | MS & Inches - Suman Industry</title>
+    <meta name="description" content="We supply the best Fastners, Bolts, and Nuts. Find strong parts built for your biggest projects" />
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Place favicon.ico in the root directory -->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.png">
 
     <!-- ========================= CSS here ========================= -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
